@@ -27,6 +27,10 @@ This is a complete solution for windows to map the CapsLock key to Control and E
     - Yes! Just right-click on the AutoHotkey icon in the SystemTray and choose `Suspend`
 
 ### Installation and Usage
-If you don't want to mess with downloading the AutoHotkey executable etc. just download the latest standalone [CapsUnlocked.exe](https://github.com/kshenoy/CapsUnlocked/releases) and run it. That's it
+If you don't want to mess with downloading the AutoHotkey executable etc. just download the latest standalone [CapsUnlocked.exe][release] and run it. That's it
 
-If you're already using AutoHotkey or want to use it, either copy-paste the contents of CapsUnlocked.ahk into your script file or simply include it
+If you're already using AutoHotkey or want to use it, either copy-paste the contents of CapsUnlocked.ahk into your script file or simply include it.
+
+**NOTE:** This repository was forked from the original at https://github.com/kshenoy/CapsUnlocked.
+
+[release]: https://github.com/accountingnerd/CapsUnlocked/releases/tag/latest
